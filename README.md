@@ -1,5 +1,4 @@
 # Sylithex - Discovering Hidden Industrial Symbiosis
-ENIGMA 5.0 - GENESIS: Beyond the Future | Track: Sustainability | PS 5
 
 > **Marketplaces work when you know what you have. Sylithex finds what you don't.**
 
@@ -10,9 +9,9 @@ ENIGMA 5.0 - GENESIS: Beyond the Future | Track: Sustainability | PS 5
 ## Team Members
 | Name | Role | GitHub |
 |---|---|---|
-| Sagar | Team Lead · Backend, AI & Optimisation | [@sagarptdr05](https://github.com/sagarptdr05) |
-| Mitisha | Frontend & UI/UX | _add handle_ |
-| Avani | Data, Knowledge Base & Domain Research | _add handle_ |
+| Yash | Team Lead · Backend, AI & Optimisation | [@yashpatil12345678](https://github.com/yashpatil12345678) |
+| Naivanya | Frontend & UI/UX | _add handle_ |
+| Sahil | Data, Knowledge Base & Domain Research | _add handle_ |
 | Yash | Matching Engine, Testing & Demo | _add handle_ |
 
 ## Problem Statement
