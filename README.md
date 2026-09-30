@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/sagarptdr05/Enigma_Sylithe/actions/workflows/ci.yml/badge.svg)](https://github.com/sagarptdr05/Enigma_Sylithe/actions/workflows/ci.yml)
 
-## Team Name : Sylithe
+## Team Name : BATTLEWORLD DOMINATORS 
 
 ## Team Members
 | Name | Role | GitHub |
