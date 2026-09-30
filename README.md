@@ -1,4 +1,4 @@
-# Sylithex - Discovering Hidden Industrial Symbiosis
+# Enigma_Sylithe - Discovering Hidden Industrial Symbiosis
 
 > **Marketplaces work when you know what you have. Sylithex finds what you don't.**
 
